@@ -46,3 +46,4 @@ You can find them [here](https://github.com/sacode387/FlowRun/blob/master/core/s
 ## Implementation details
 Written in [ScalaJS](https://www.scala-js.org/).  
 Uses [d3-graphviz](https://github.com/magjac/d3-graphviz) to display the flowcharts.
+
